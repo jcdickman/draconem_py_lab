@@ -7,6 +7,11 @@ def number_length(a: int) -> int:
     # 4) Return the Length of the string
     return len(str(a))
 
+def number_length_two(a: int) -> int:
+    mystring = str(a)
+    mylength = len(mystring)
+
+    return mylength
 
 if __name__ == '__main__':
     print("Example:")
