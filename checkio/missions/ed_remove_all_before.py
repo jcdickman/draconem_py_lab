@@ -26,3 +26,4 @@ if __name__ == '__main__':
     assert list(remove_all_before([], 0)) == []
     assert list(remove_all_before([7, 7, 7, 7, 7, 7, 7, 7, 7], 7)) == [7, 7, 7, 7, 7, 7, 7, 7, 7]
     print("Coding complete? Click 'Check' to earn cool rewards!")
+w
