@@ -1,6 +1,5 @@
 def backward_string(val: str) -> str:
     # your code here
-    x = len(val)
     return val[::-1]
 
 
